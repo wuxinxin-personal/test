@@ -1,5 +1,6 @@
-hello  wxx-personal
+﻿hello  wxx-personal
 
 
 test 添加日记
 
+删除test第二次添加的日记
